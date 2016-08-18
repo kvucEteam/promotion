@@ -41,8 +41,8 @@
     }
 */
 
-body {  /* THAN 29-06-2016: This has been place here so it mimics the white background of vucdigital.dk/index.html */
-    background-color: white;   
+body {  /* THAN 29-06-2016: This has been place here so it mimics the white background of vucdigital.dk/index.html  - MIP 18-08-16 Deactivated so background same as iFrame*/
+    /* background-color: white;   */
 }
 
 .active {
